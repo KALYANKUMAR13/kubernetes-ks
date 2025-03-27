@@ -12,4 +12,7 @@ The best way to guarantee a loss is to quit.
 
 – Morgan Freeman
 ```
+In the below scenario, the pods level get the priority and all the containers in the pod are ran by 1001
+
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/b4e34ee9-9256-4ba2-b04a-5b80b498d703" />
 
